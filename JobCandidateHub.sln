@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobCandidateHub.WebAPI", "JobCandidateHub.WebAPI\JobCandidateHub.WebAPI.csproj", "{B3273B55-3049-43A5-BC99-CD148C400A98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobCandidateHub.DataAccess", "JobCandidateHub.DataAccess\JobCandidateHub.DataAccess.csproj", "{E2CA1EB9-565D-4F2C-8489-6E586BFE5C5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3273B55-3049-43A5-BC99-CD148C400A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3273B55-3049-43A5-BC99-CD148C400A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3273B55-3049-43A5-BC99-CD148C400A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3273B55-3049-43A5-BC99-CD148C400A98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2CA1EB9-565D-4F2C-8489-6E586BFE5C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2CA1EB9-565D-4F2C-8489-6E586BFE5C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2CA1EB9-565D-4F2C-8489-6E586BFE5C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2CA1EB9-565D-4F2C-8489-6E586BFE5C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {304F7F57-058F-444B-9106-9AC5E5B2DE87}
+	EndGlobalSection
+EndGlobal
