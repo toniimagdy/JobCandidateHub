@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobCandidateHub.DataAccess"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobCandidateHub.Models", "JobCandidateHub.Models\JobCandidateHub.Models.csproj", "{03D51DF9-39BB-4301-AAF6-5912D51DD674}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobCandidateHub.Services", "JobCandidateHub.Services\JobCandidateHub.Services.csproj", "{2721FFB3-13C8-4826-88F8-BD4CEC90594D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{03D51DF9-39BB-4301-AAF6-5912D51DD674}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03D51DF9-39BB-4301-AAF6-5912D51DD674}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03D51DF9-39BB-4301-AAF6-5912D51DD674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2721FFB3-13C8-4826-88F8-BD4CEC90594D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2721FFB3-13C8-4826-88F8-BD4CEC90594D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2721FFB3-13C8-4826-88F8-BD4CEC90594D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2721FFB3-13C8-4826-88F8-BD4CEC90594D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

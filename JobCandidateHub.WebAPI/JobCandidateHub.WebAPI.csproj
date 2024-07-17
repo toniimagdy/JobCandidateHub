@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\JobCandidateHub.DataAccess\JobCandidateHub.DataAccess.csproj" />
+    <ProjectReference Include="..\JobCandidateHub.Services\JobCandidateHub.Services.csproj" />
   </ItemGroup>
 
 </Project>
