@@ -13,6 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobCandidateHub.Services", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobCandidateHub.Tests", "JobCandidateHub.Tests\JobCandidateHub.Tests.csproj", "{42E610E8-BF9C-49BA-A88B-5E57A79F7FF2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{106EC3C6-60AE-46FC-9A02-BE0A114283B2}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\build-and-deploy-job-candidate-hub.yml = .github\workflows\build-and-deploy-job-candidate-hub.yml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
