@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobCandidateHub.WebAPI", "JobCandidateHub.WebAPI\JobCandidateHub.WebAPI.csproj", "{B3273B55-3049-43A5-BC99-CD148C400A98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobCandidateHub.WebAPI", "JobCandidateHub.WebAPI\JobCandidateHub.WebAPI.csproj", "{B3273B55-3049-43A5-BC99-CD148C400A98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobCandidateHub.DataAccess", "JobCandidateHub.DataAccess\JobCandidateHub.DataAccess.csproj", "{E2CA1EB9-565D-4F2C-8489-6E586BFE5C5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobCandidateHub.DataAccess", "JobCandidateHub.DataAccess\JobCandidateHub.DataAccess.csproj", "{E2CA1EB9-565D-4F2C-8489-6E586BFE5C5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobCandidateHub.Models", "JobCandidateHub.Models\JobCandidateHub.Models.csproj", "{03D51DF9-39BB-4301-AAF6-5912D51DD674}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E2CA1EB9-565D-4F2C-8489-6E586BFE5C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2CA1EB9-565D-4F2C-8489-6E586BFE5C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2CA1EB9-565D-4F2C-8489-6E586BFE5C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03D51DF9-39BB-4301-AAF6-5912D51DD674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D51DF9-39BB-4301-AAF6-5912D51DD674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D51DF9-39BB-4301-AAF6-5912D51DD674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D51DF9-39BB-4301-AAF6-5912D51DD674}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
